@@ -33,7 +33,7 @@ When you open the challenge folder on GitHub, you’ll notice two items:
 ### 3. Identify the Maven Project
 - Look for the folder containing the **`pom.xml`** file.  
 - IntelliJ marks this folder with a **black square icon with a small white line at the bottom**.  
-- This is the **Maven root project folder** — always open this folder in IntelliJ.  
+- This is the **Maven root project folder** — always open this folder in IntelliJ.    
 
 ### 4. Open Project in IntelliJ
 - Open **IntelliJ IDEA**.  

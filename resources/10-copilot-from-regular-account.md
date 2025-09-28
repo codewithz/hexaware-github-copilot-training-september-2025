@@ -42,7 +42,7 @@ You may also want to install **GitHub Copilot Chat** for a chat-based experience
 ---
 
 ## 🔑 Step 5: Sign in with GitHub
-1. After installing, VS Code will prompt you to **sign in with GitHub**.  
+1. After installing, VS Code will prompt you to **sign in with GitHub**.    
 2. A browser window opens asking for permission.  
 3. Authorize **GitHub Copilot** for your GitHub account.  
 4. Return to VS Code → You’ll see **“Successfully signed in”**.
